@@ -57,7 +57,7 @@ const paymentController = {
 
   },
   async handleCreateStripePortalSession(req: Request, res: Response) {
-    const stripe = require('stripe')('sk_test_51MzGSRCJn9yoclfnZN4Qfoa5CYg45xKcYCxDndZBSnHcMFblCfdBvUX4ZstF1ZptQt8mvqOobSrdZ8QEawyWezYP008Yq1Zyeu');
+    const stripe = require('stripe')('...');
 
     // This is the url to which the customer will be redirected when they are done
     // managing their billing with the portal.
