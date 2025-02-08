@@ -5,19 +5,17 @@
  * Created on the 01/01/2023
  */
 
-// JAVASCRIPT INSTANCE EXTENSION(S) 
-
 declare global {
     interface String {
-        /** (CUSTOM EXTENSION) 
+        /**
          * - Removes all whitespace from the given text.
         */
         trimAllWhitespace(): string;
-        /** (CUSTOM EXTENSION) 
+        /**
          * - Returns the last character from the given text.
         */
         lastCharacter(): string; 
-        /** (CUSTOM EXTENSION) 
+        /**
          * - Removes the last character from the given text.
         */
         trimLastCharacter(): string; 
