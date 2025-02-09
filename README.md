@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="src/assets/Minipix-Kids-Icon-100-100.png" alt="Minipix Kids Logo" width="600"/>
+</div>
+
 # Table of Contents
 1. [About](#about)
 2. [Live Demo](#live-demo-of-colorization)  
