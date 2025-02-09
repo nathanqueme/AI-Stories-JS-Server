@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="src/assets/Minipix-Kids-Icon-100-100.png" alt="Minipix Kids Logo" width="100"/>
+<div align="left">
+  <img src="src/assets/Minipix-Kids-Icon-100-100.png" alt="Minipix Kids Logo" width="60"/>
 </div>
 
 # Table of Contents
