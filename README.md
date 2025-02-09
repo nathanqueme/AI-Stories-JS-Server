@@ -59,4 +59,4 @@ You can see how illustrations can be re-colored at the [**Live Demo**](https://n
    
 > The UI allows users to play the narration of a story, like it, modify the color of its images, and more.
 
-<img src="src/assets/ui-screenshots/narration.png" alt="App Overview" width="400px" />
+<img src="src/assets/ui-screenshots/narration.png" alt="App Overview" width="360px" />
