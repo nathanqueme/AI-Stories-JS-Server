@@ -15,22 +15,22 @@ You can see how illustrations can be re-colored at the [**Live Demo**](https://n
 
 ## 3. Core Components
 
-### - Story API Endpoint
+### 1. Story API Endpoint
   - **NoSQL CRUD operations**: Stores and retrieves stories, supports user engagement (reading, liking, tracking interactions), and fetches stories based on subscription plans (Free/Premium).
   - **Illustrations**: Generates 10–20 AI-generated images for each story.
   - **Text-to-Speech**: Two distinct voice options generate audio files for narration.
   - **3D Collectibles**: Each story includes a unique, animated 3D asset in mesh and GIF format.
 
-### - GIF Processing
+### 2. GIF Processing
   - Converts images into GIF format.
   - Removes the background from GIFs.
   - Watermarks GIFs with a logo (similar to TikTok).
 
-### - Image Processing
+### 3. Image Processing
   - Modifies the color of story illustrations to fit themes or user preferences.
   - Uses advanced colorization techniques for customization.
 
-### - Audio Processing
+### 4. Audio Processing
   - Merges multiple audio segments into a single file.
   - Generates text-to-speech audio for seamless narration.
 
