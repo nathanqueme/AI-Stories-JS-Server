@@ -11,7 +11,7 @@
 ## 1. About
 This API creates interactive stories for kids based on user prompts. It handles everything from generating text to creating multimedia elements, including text-to-text, text-to-GIF, text-to-image, and text-to-audio.
 
-> Note: This project also includes a UI that interacts with this API to generate and display AI-generated stories, though the UI itself is not provided here.
+> Note: Note: This project also includes a UI that interacts with this API to generate and display AI-generated stories. Some screenshots are at the end.
 
 ## 2. Live Demo
 You can see how illustrations can be re-colored at the [**Live Demo**](https://nq-portfolio.com/recoloring/demo).
