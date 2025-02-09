@@ -14,9 +14,10 @@ This API powers a platform that generates rich, interactive stories for kids bas
 You can see how illustrations can be re-colored at the [**Live Demo**](https://nq-portfolio.com/recoloring/demo).
 
 ## 3. Core Components
+
 ### - Story API Endpoint
-  - **NoSQL CRUD operations**: for storing and retrieving stories while supporting user engagement (reading, liking, tracking interactions) and fetching stories based on subscription plans (Free/Premium).
-  - **Illustrations**: Each story includes 10-20 AI-generated images.
+  - **NoSQL CRUD operations**: Stores and retrieves stories, supports user engagement (reading, liking, tracking interactions), and fetches stories based on subscription plans (Free/Premium).
+  - **Illustrations**: Generates 10–20 AI-generated images for each story.
   - **Text-to-Speech**: Two distinct voice options generate audio files for narration.
   - **3D Collectibles**: Each story includes a unique, animated 3D asset in mesh and GIF format.
 
