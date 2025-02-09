@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="src/assets/ui-screenshots/phone-homepage.png" alt="Web App Preview" height="400px">
+        <img src="src/assets/ui-screenshots/phone-homepage.png" alt="Web App Preview" height="250px">
       </td>
       <td align="center">
         <img src="src/assets/ui-screenshots/narration.png" alt="App Overview" width="400px">
