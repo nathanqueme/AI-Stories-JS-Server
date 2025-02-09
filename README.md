@@ -1,3 +1,16 @@
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="src/assets/ui-screenshots/phone-homepage.png" alt="Web App Preview" width="400px">
+      </td>
+      <td align="center">
+        <img src="src/assets/ui-screenshots/narration.png" alt="App Overview" width="400px">
+      </td>
+    </tr>
+  </table>
+</div>
+
 # Table of Contents
 1. [About](#about)
 2. [Live Demo](#live-demo-of-colorization)  
